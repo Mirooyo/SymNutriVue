@@ -10,11 +10,14 @@ import Meals from "./components/Meals.vue";
 
 <style>
   :root {
-    --primary-color: #88C0C2;
-    --background-color: #A3D0CA;
+    --primary-color: #6F423C;
+    --background-color: #110D0E;
+    --text-color: #F1E5E7;
+    --secondary-color: #6F423C;
   }
   body {
     margin: 0;
+    background: #090506;
   }
   main {
     display: grid;
